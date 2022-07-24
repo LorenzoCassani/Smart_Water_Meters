@@ -1,4 +1,4 @@
-# Smart Water-Meters
+# Smart water-meters
 
 Python code for anomaly detection in smart water meters consumption data.
 
